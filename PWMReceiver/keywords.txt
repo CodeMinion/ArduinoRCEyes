@@ -1,0 +1,4 @@
+PWMChannel	KEYWORD1
+readPulse	KEYWORD2
+getPulseDifference	KEYWORD2
+setThreshold	KEYWORD2
